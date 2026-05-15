@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3005",
+  "folder": "YouTube__watch_20260515153033_abec56",
+  "base_name": "5_wXcMC6SpQdA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/fjejccm0000-lang/Cloud-Downloads-repod/releases/tag/co-releases-v1-3005",
+  "files": [
+    {
+      "name": "5_wXcMC6SpQdA_720p.mp4",
+      "url": "https://github.com/fjejccm0000-lang/Cloud-Downloads-repod/releases/download/co-releases-v1-3005/5_wXcMC6SpQdA_720p.mp4",
+      "api_url": "https://api.github.com/repos/fjejccm0000-lang/Cloud-Downloads-repod/releases/assets/421108378",
+      "id": 421108378,
+      "size": 16737146,
+      "download_count": 0
+    }
+  ]
+}
